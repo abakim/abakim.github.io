@@ -1,0 +1,64 @@
+
+body {
+	background: #c0dbe3;
+  }
+  
+  .container {
+	margin: 0em auto;
+	margin-top:-0.0em;
+	  position: relative;
+  }
+  
+  .container svg {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+  }
+
+  .centrado{
+    position: absolute;
+    top: 4%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 35px;
+	font-family: Lato;
+	color: #2C2C2C;
+	
+}
+  
+  /*Animation Elements*/
+  .crane-line-one {}
+  .crane-line-two {}
+  .crane-knot {}
+  
+  .star-piece {}
+  .star-cut {opacity: 0;}
+  .star-shadow {opacity: .35}
+  
+  .roller {}
+  .roller-fold {}
+  .roller-fold-shadow {opacity:0.08}
+
+  /*
+ .contenedor{
+    position: relative;
+    display: inline-block; 
+    text-align: center; 
+ } 
+ 
+ .texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 3%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 35px;
+	font-family: Lato;
+	color: #2C2C2C;
+	
+} 
+*/
